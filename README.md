@@ -14,5 +14,10 @@ Input the Sudoku puzzle row by row when prompted, using 0 to represent empty cel
 The program will solve the puzzle and display the solution on the console.
 
 Example Usage:
+
 ![TASK4OP](https://github.com/NitinN24/BYTEUPRISE_SD_04/assets/157646520/375c5960-289e-4081-b767-2ef5ded0afd8)
 
+Technologies Used:
+Java
+IntelliJ IDEA (or any Java IDE)
+Git (for version control)
